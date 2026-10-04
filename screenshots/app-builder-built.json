@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "NNX — Jasa Desain Grafis",
+      "hasCanvas": false,
+      "bodyTextLen": 5992,
+      "bodyTextHash": "54448ffdb29f45d9ee3ae335501b54485fd6f2ac67aa6883074ae289e650dcce",
+      "bodyTextPrefix": "NNX Pixels & Visual Design Karya Layanan Proses Paket Kirim brie",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "NNX — Jasa Desain Grafis",
+      "hasCanvas": false,
+      "bodyTextLen": 5930,
+      "bodyTextHash": "19acb5dad4d04b99bff1735550d3666c67b7bb69bd3ad69269b37f69c331c411",
+      "bodyTextPrefix": "NNX STUDIO DESAIN GRAFIS · JAKARTA Jasa desain grafis yang rapi ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
